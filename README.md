@@ -1,6 +1,12 @@
 # shellprofiles
 Sharing my shell profile tricks and peru-shell oh-my-posh theme variant
 
+I recommend using **Iosevka Nerd Font** or **IosevkaTerm Nerd Font** with the standard version.
+
+If you are using a stricter mono spaced font like **Iosevka Nerd Font Mono** or **IosevkaTerm Nerd Font Mono**, I would use the mono version of this theme.
+
+You can dowload nerd fonts here: https://www.nerdfonts.com/font-downloads
+
 Peru-shell theme on zsh on Macos:
 <img width="1344" alt="Screenshot 2024-12-09 at 5 35 59 PM" src="https://github.com/user-attachments/assets/25b31b04-60d7-42a9-8307-deea15363042">
 
