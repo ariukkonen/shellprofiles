@@ -10,9 +10,6 @@ alias nano='/opt/homebrew/bin/nano'
 alias cls="printf '\033[2J\033[3J\033[H'"
 alias ls="ls -G"
 PS1='$ '
-# eval "$(oh-my-posh --config "~/default.omp.json" init zsh)"
-# eval "$(oh-my-posh --config "~/pixelrobots.omp.json" init zsh)"
-# eval "$(oh-my-posh --config "~/multiverse-neon.omp.json" init zsh)"
 eval "$(oh-my-posh --config "~/peru-shell.omp.json" init zsh)"
 # eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/jonnychipz.omp.json)"
 # eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/kushal.omp.json)"
