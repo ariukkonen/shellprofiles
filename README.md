@@ -8,10 +8,12 @@ If you are using a stricter mono spaced font like **Iosevka Nerd Font Mono** or 
 You can dowload nerd fonts here: https://www.nerdfonts.com/font-downloads
 
 Peru-shell theme on zsh on Macos:
-<img width="1344" alt="Screenshot 2024-12-09 at 5 35 59 PM" src="https://github.com/user-attachments/assets/25b31b04-60d7-42a9-8307-deea15363042">
+<img width="1384" height="593" alt="image" src="https://github.com/user-attachments/assets/cb20f755-8876-47cb-b3f7-8a191330c4c5" />
+
 
 Peru-shell theme on pwsh on Macos:
-<img width="1344" alt="Screenshot 2024-12-09 at 5 34 31 PM" src="https://github.com/user-attachments/assets/34a5f80d-1cbd-4e1d-8ab3-3fc392ea28be">
+<img width="1390" height="725" alt="image" src="https://github.com/user-attachments/assets/b531692f-b7f0-4766-b3dd-416fdbf11033" />
+
 
 Peru-shell theme on pwsh in Windows 11:
 <img width="1650" height="763" alt="image" src="https://github.com/user-attachments/assets/247dd124-e5a9-4bfa-8d0a-50e6ee598e82" />
