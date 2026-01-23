@@ -5,7 +5,7 @@ I recommend using **Iosevka Nerd Font** or **IosevkaTerm Nerd Font** with the st
 
 If you are using a stricter mono spaced font like **Iosevka Nerd Font Mono** or **IosevkaTerm Nerd Font Mono**, I would use the mono version of this theme.
 
-You can dowload nerd fonts here: https://www.nerdfonts.com/font-downloads
+You can download nerd fonts here: https://www.nerdfonts.com/font-downloads
 
 Peru-shell theme on zsh on Macos:
 <img width="1384" height="593" alt="image" src="https://github.com/user-attachments/assets/cb20f755-8876-47cb-b3f7-8a191330c4c5" />
